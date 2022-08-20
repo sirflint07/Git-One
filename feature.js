@@ -1,0 +1,1 @@
+prompt("My name is Michael");
